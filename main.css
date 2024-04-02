@@ -4,8 +4,9 @@
     padding:0;
 }
 body{
-    background-image: url(img.jpg), size:cover;
+    background-image: url(img.jpg) 100% 100%;
     background-repeat: no-repeat;
+    background-size:cover;
 }
 div.main{
     color: blue;
